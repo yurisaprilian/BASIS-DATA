@@ -9,7 +9,7 @@
 
 # Tabel Harga barang 
 <p align="center">
-<<img width="334" alt="image" src="https://github.com/yurisaprilian/BASIS-DATA/assets/160213851/3e628cf8-8e42-4346-9ad1-be38193b2459">
+  <img width="334" alt="image" src="https://github.com/yurisaprilian/BASIS-DATA/assets/160213851/3e628cf8-8e42-4346-9ad1-be38193b2459">
 </p>
 
 
