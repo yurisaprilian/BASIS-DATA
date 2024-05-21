@@ -1,4 +1,5 @@
 <h1>Himpunlah screenshot sintaksis SQL berikut hasil SELECT yang Anda dapat di komputer Anda pada bagian Praktikum</h1>
+
 ![Screenshot 2024-05-21 131042](https://github.com/yurisaprilian/BASIS-DATA/assets/160213851/f091134d-c335-406d-af11-0a481b829351)
 
 ![Screenshot 2024-05-21 131123](https://github.com/yurisaprilian/BASIS-DATA/assets/160213851/fedb4836-b441-45ea-be71-deaf49ad82d4)
