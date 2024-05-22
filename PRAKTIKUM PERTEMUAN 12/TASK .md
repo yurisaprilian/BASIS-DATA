@@ -40,4 +40,5 @@
 <h1>Tampilkan kode dosen yang mengajar pada hari kamis dari tabel jadwal yang nama depanya di awali dengan huruf A. gunakan operasi intersect! Tunjukkan sintaksis dan output dari pencarian tersebut.</h1>
 <img width="477" alt="image" src="https://github.com/yurisaprilian/BASIS-DATA/assets/160213851/f6ac1a76-ab05-443a-9a24-e3e55636d3be">
 <h1>Tampilkan kode_ruang tertentu pada hari tertentu dengan diurutkan berdasarkan dengan kode jam yang ter awal.</h1>
+<img width="588" alt="image" src="https://github.com/yurisaprilian/BASIS-DATA/assets/160213851/20e96788-fc52-47ed-a1ae-ad3228a1d39d">
 
