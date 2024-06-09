@@ -1,5 +1,5 @@
 <h1>1.Tampilkan nama user dengan jenis kelamin perempuan diurutkan dengan ascending konsep flow map</h1>
-![1](https://github.com/yurisaprilian/BASIS-DATA/assets/160213851/fade13d2-3efc-4dcf-8e49-0e9d9a0b6bba)
+![1](https://github.com/yurisaprilian/BASIS-DATA/assets/160213851/bc6d8bb4-b2e8-4545-9c5e-48225d3aade2)
 
 
 <h1>konsep query dan outputnya</h1>
